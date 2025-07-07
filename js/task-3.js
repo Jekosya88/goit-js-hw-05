@@ -5,7 +5,7 @@
 console.log(
   sortByDescendingFriendCount([
     {
-      name: "Moore Hensley",
+      name: "Moore Hensley", 
       friends: ["Sharron Pace"],
       gender: "male"
     },
